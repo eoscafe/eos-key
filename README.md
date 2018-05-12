@@ -16,6 +16,9 @@ MacOS Virus Scan (100% safe, 0/57): [VirusTotal](https://www.virustotal.com/#/fi
 
 Linux Virus Scan (100% safe, 0/58): [VirusTotal](https://www.virustotal.com/#/file/c73568b393d5e6fb43fd95d0d08c4ab3338a2a10317a216f484dc95d7ddc575c/detection)
 
+Windows Virus Scan (98.3% safe, 1/58): [VirusTotal](https://www.virustotal.com/en/file/d36e91a75dfc0d7139877cb6150cfd6b7dfb674a1cb6a63c83621299d8715a6e/analysis/)
+The false positive is confirmed by [MetaDefender Report](https://www.hybrid-analysis.com/sample/d36e91a75dfc0d7139877cb6150cfd6b7dfb674a1cb6a63c83621299d8715a6e) to be a false positive, the anti-virus flags 'EOS' in file contents and thinks it is a coin miner.
+
 #### Manual build
 
 ```bash
