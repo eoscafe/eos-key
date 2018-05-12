@@ -90,9 +90,19 @@ export default {
     validateKeys(){
       const { validatePublicKey, validatePrivateKey} = this;
 
+      // Valid public key
       if(ecc.isValidPublic(validatePublicKey)){
+
+        // Valid private key
         if(ecc.isValidPrivate(validatePrivateKey)){
-          this.validationStatus = this.$t('landing.validKeyPair')
+          let publicKey = ecc.privateToPublic(validatePrivateKey)
+
+          // The public key is correctly matched to private key
+          if(publicKey === validatePublicKey) {
+            this.validationStatus = this.$t('landing.validKeyPair')
+          } else {
+            this.validationStatus = this.$t('landing.invalidPublicKey')
+          }
         } else {
           this.validationStatus = this.$t('landing.invalidPrivateKey')
         }
