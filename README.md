@@ -16,9 +16,6 @@ MacOS Virus Scan (100% safe, 0/57): [VirusTotal](https://www.virustotal.com/#/fi
 
 Linux Virus Scan (100% safe, 0/58): [VirusTotal](https://www.virustotal.com/#/file/c73568b393d5e6fb43fd95d0d08c4ab3338a2a10317a216f484dc95d7ddc575c/detection)
 
-Windows Virus Scan (100% safe, 0/57): [VirusTotal](https://www.virustotal.com/#/file-analysis/YmE4ZTAyZjMxNWQ1NjJjYzNmZWQwYWZiMDk4NmIwMDU6MTUyNjE0MDQzMQ==)
-
-
 #### Manual build
 
 ```bash
