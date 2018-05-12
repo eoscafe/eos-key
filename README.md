@@ -7,6 +7,9 @@
 2. Run on airgapped (ideal) computer or with no internet connection
 3. Generate keys and/or Validate your keys
 
+## Preview
+<img width="800" alt="eos-key" src="https://user-images.githubusercontent.com/13677357/39959091-84e437cc-55da-11e8-99ba-c3ad70d715b4.png">
+
 ### **Virus Scans:** . 
 
 MacOS Virus Scan (100% safe, 0/57): [VirusTotal](https://www.virustotal.com/#/file/0cca757a413d526805ae875fb29adfb5f92c9b311ec93ecb96d84c5f77e85a33/detection)
@@ -14,8 +17,6 @@ MacOS Virus Scan (100% safe, 0/57): [VirusTotal](https://www.virustotal.com/#/fi
 Linux Virus Scan (100% safe, 0/58): [VirusTotal](https://www.virustotal.com/#/file/c73568b393d5e6fb43fd95d0d08c4ab3338a2a10317a216f484dc95d7ddc575c/detection)
 
 Windows Virus Scan (100% safe, 0/57): [VirusTotal](https://www.virustotal.com/#/file-analysis/YmE4ZTAyZjMxNWQ1NjJjYzNmZWQwYWZiMDk4NmIwMDU6MTUyNjE0MDQzMQ==)
-
-<img width="800" alt="eos-key" src="https://user-images.githubusercontent.com/13677357/39959091-84e437cc-55da-11e8-99ba-c3ad70d715b4.png">
 
 
 #### Manual build
